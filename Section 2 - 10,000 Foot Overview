@@ -2,3 +2,21 @@
 		Section 2 - 10,000 Foot Overview
 	Availability zone - a datacenter, multiple AZs per region.
 	Edge Locations - endpoints for AWS that are used for caching content.
+
+	Compute
+	EC2 - Virtual Machines inside the AWS platform.
+	EC2 Container Services - run and manage docker containers at scale.
+	Elastic Beanstalk - no understanding of AWS required, upload code and infrastructure is autoconfigured.
+	Lambda - Upload code to cloud and control when it executes, no infrastructure to manage.
+	Lightsail - VPS Service, no understanding of AWS required, autoconfigured, watered down version of EC2.
+	Batch - Do batch computing in cloud.
+
+	Storage
+	S3 - Object based storage, upload files into buckets.
+	EFS - Network attached storage, can be mounted to multiple virtual machines.
+	Glacier - Data archiving, cheap storage.
+	Snowball - bring large amounts of data into AWS data center.
+	Storage Gateway - VMs that can be installed in datacenter, replicate information back to S3.
+
+	Databases
+	
