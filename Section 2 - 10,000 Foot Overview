@@ -107,4 +107,36 @@
 	AWS AppSync - automatically updates data in web and mobile applications in real time.
 	Device Farm - test your apps on real live devices.
 	Mobile Analytics - analytics service for mobiles.
-	
+
+	AR/VR
+	Sumerian - common set of tools for augmented reality, virtual reality etc.
+
+	Application Integration
+	Step Functions - manage your Lambda functions and their different steps.
+	Amazon MQ - message queues, similar to rabbit mq.
+	SNS - notification service.
+	SQS - decouple infrastructure, holds information in queue that can be polled.
+	SWF - work flow service.
+
+	Customer Engagement
+	Connect - contact centre as a service.
+	Simple Email Service - email service, scalable and customisable.
+
+	Business Productivity
+	Alexa for Business - used to dial into meetings, send notification to IT department.
+	Chime - video conferencing like zoom meetings.
+	Work Docs - dropbox for AWS.
+	WorkMail - Like office365.
+
+	Desktop and App Streaming
+	Workspaces - VDI for running OS in AWS.
+	AppStream 2.0 - run application in cloud and stream.
+
+	Internet of Things
+	iOT - have large number of devices sending back information.
+	iOT - manages large number of device data.
+	Amazon FreeRTOS - free operating system for microcontrollers.
+	Greengrass - run local compute message data-caching for connected devices.
+
+	Game Development
+	GameLift - service to develop games, including VR.
